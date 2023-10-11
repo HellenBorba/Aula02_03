@@ -2,29 +2,6 @@
 
 O objetivo deste exercicío é realizar a soma de dois números que são inseridos. 
 
-import javax.swing.JOptionPane;
+![esquema lógico](projeto.java)
 
-
-
-
-
-public class Aula02_03
-
-{
-   
-    public static void main(String[] args)
-    
-    {
-    
-        String A = JOptionPane.showInputDialog("Digite um número: ");
-        
-        int B = Integer.parseInt(A);
-        
-        int C = Integer.parseInt(JOptionPane.showInputDialog("Digite outro número: "));
-        
-        int D = B + C;
-        
-        JOptionPane.showMessageDialog(null, D, "A soma é: ", 0);
-    }
-}
 

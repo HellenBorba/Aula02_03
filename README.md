@@ -1,6 +1,6 @@
 # Aula02_03
 
-O objetivo deste exercicío é realizar a soma de dois números que são inseridos. 
+O objetivo deste exercício é realizar a soma de dois números que são inseridos. 
 
 ~~~
 import javax.swing.JOptionPane;

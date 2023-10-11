@@ -1,4 +1,4 @@
-´´´´import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;
 
 public class Aula02_03
 {
@@ -12,4 +12,4 @@ public class Aula02_03
 
         JOptionPane.showMessageDialog(null, D, "A soma é: ", 0);
     }
-}´´´
+}
